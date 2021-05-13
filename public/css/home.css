@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+}
+.header-contenedor{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.header-logo {
+    width: 34%;
+    border: white solid 2px;
+    margin-top: 80px;
+}
+.header-logo img{
+    margin: auto;
+    width: 99%;
+}
