@@ -196,20 +196,57 @@
 }
 
  /*Responsive*/
-@media (max-width: 660px) {
+@media (max-width: 700px) {
    .header-torneo {
-        font-size: 20px;
+        font-size: 15px;
    }
    .header-equipos {
-        font-size: 20px;
+        font-size: 15px;
    }
    .header-noticias {
-        font-size: 20px;
+        font-size: 15px;
    }
    .header-logo img {
-       width: 120px;
+       width: 100px;
    }
    .main-contenedor img {
-       height: 150px;
+       height: 250px;
+       width: 250px;
    }
+   .main-contenedor {
+       display: block;
+   }
+   /* .equipo1 {
+       display: block;
+   }
+   .equipo2 {
+       display: block;
+   }
+   .equipo3 {
+       display: block;
+   }
+   .equipo4 {
+       display: block;
+   }
+   .equipo5 {
+       display: block;
+   }
+   .equipo6 {
+       display: block;
+   }
+   .equipo7 {
+       display: block;
+   }
+   .equipo8 {
+       display: block;
+   }
+   .equipo9 {
+       display: block;
+   }
+   .equipo10 {
+       display: block;
+   }
+   .equipo11 {
+       display: block;
+   } */
 }
