@@ -1,7 +1,7 @@
 <h1>MUNDIALITO PADEL</h1>
 
-<h3>Web para el mudnialito, pagina simple y rapida</h3>
-<p><b>ADesarrollada en 4 horas</b></p>
+<h3>Web para el mundialito, pagina simple y rapida</h3>
+<p><b>Desarrollada en 4 horas</b></p>
 <p><b>Secciones:</b></p>
 <ul>
 <li>Home de acceso</li>
