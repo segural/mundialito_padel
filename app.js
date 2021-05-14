@@ -20,4 +20,8 @@ app.use ('/', mainRoutes);
 app.use ('/index', mainRoutes);
 app.use ('/equipos', mainRoutes);
 app.use ('/torneo', mainRoutes);
+app.use ('/cuartos', mainRoutes);
+app.use ('/semis', mainRoutes);
+app.use ('/final', mainRoutes);
+app.use ('/super', mainRoutes);
 app.use ('/equipo', equiposRoutes);

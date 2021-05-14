@@ -11,6 +11,18 @@ const mainController = {
     },
     torneo: (req,res)=> {
         res.render ('torneo')
-    }
+    },
+    cuartos: (req,res)=> {
+        res.render ('cuartos')
+    },
+    semis: (req,res)=> {
+        res.render ('semis')
+    },
+    final: (req,res)=> {
+        res.render ('final')
+    },
+    super: (req,res)=> {
+        res.render ('super')
+    },
 };
 module.exports = mainController

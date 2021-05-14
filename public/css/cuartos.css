@@ -81,12 +81,26 @@
     grid-template-columns: 1fr;
     gap: 5px;
 }
+.gloria{
+    display: block;
+    margin: auto;
+}
 .fase{
     display: block;
     margin: auto;
 }
 .fase p{
     color: #f03805;
+    font-size: 30px;
+    font-weight: 700;
+}
+.zona1 p{
+    color:gold;
+    font-size: 30px;
+    font-weight: 700;
+}
+.zona2 p{
+    color:silver;
     font-size: 30px;
     font-weight: 700;
 }
