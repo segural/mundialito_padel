@@ -248,4 +248,28 @@
     .equipo2 p{
         font-size: 10px;
     }
+    .qualy p{
+        font-size: 8px;
+    }
+    .cuartos p{
+        font-size: 8px;
+    }
+    .semis p{
+        font-size: 8px;
+    }
+    .final p{
+        font-size: 8px;
+    }
+    .super p{
+        font-size: 8px;
+    }
+    .date p{
+        font-size: 12px;
+    }
+    .resultado p{       
+        font-size: 12px;
+    }
+    .ganador p{
+        font-size: 12px;
+    }
  }
