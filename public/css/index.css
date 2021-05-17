@@ -3,6 +3,7 @@
     background-color: black;
     color: blanchedalmond;
 }
+/* HEADER */
 .header-contenedor {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
@@ -58,6 +59,33 @@
 .header-noticias p:hover {
     border-bottom: blanchedalmond 2px solid;
 }
+
+/* MAIN */
+.main-contenedor{
+    max-width: 1000px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+.note{
+    border: blanchedalmond 1px solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.note img{
+    max-height: 150px;
+    display: block;
+}
+.note h2{
+    color: #d4b6b6;
+    margin: auto;
+}
+.note p{
+    color: #d4b6b6;
+    margin: 5px 10px;
+}
  /*Responsive*/
  @media (max-width: 660px) {
     .header-torneo {
@@ -71,5 +99,9 @@
     }
     .header-logo img {
         width: 100px;
+    }
+    .main-contenedor{
+        display: grid;
+        grid-template-columns: 1fr;
     }
  }
