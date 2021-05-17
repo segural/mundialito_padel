@@ -104,6 +104,11 @@
     font-size: 30px;
     font-weight: 700;
 }
+.finales p{
+    color:white;
+    font-size: 20px;
+    font-weight: 700; 
+}
 .partido{
     display: grid;
     grid-template-columns: 0.2fr 1fr 0.2fr 1fr 0.2fr;
