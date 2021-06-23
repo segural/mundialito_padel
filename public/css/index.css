@@ -86,6 +86,24 @@
     color: #d4b6b6;
     margin: 5px 10px;
 }
+.note2{
+    border: blanchedalmond 1px solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.note2 img{
+    max-height: 350px;
+    display: block;
+}
+.note2 h2{
+    color: #d4b6b6;
+    margin: auto;
+}
+.note2 p{
+    color: #d4b6b6;
+    margin: 5px 10px;
+}
  /*Responsive*/
  @media (max-width: 660px) {
     .header-torneo {
